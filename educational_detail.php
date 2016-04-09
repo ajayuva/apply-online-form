@@ -4,7 +4,7 @@ if($_POST){
 }
  if($user->is_educationaldetail()!=''){
 	 
-	$user->redirect('index.php'); 
+	 $user->redirect('index.php'); 
  }
 ?>
 <?php include('include/header.php'); 
