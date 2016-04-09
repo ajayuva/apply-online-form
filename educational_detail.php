@@ -6,6 +6,7 @@ if($_POST){
 	 
 	$user->redirect('index.php'); 
  }
+ 
 ?>
 <?php include('include/header.php'); 
     $degree_0='';
