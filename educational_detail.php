@@ -5,6 +5,8 @@ if($_POST){
  if($user->is_educationaldetail()!=''){
 	 
 	 $user->redirect('index.php'); 
+	 //this is the test of jit
+	 
  }
 ?>
 <?php include('include/header.php'); 
