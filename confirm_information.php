@@ -6,7 +6,7 @@ if($_POST){
  if($user->is_confirm()!=''){
 	 
 	$user->redirect('index.php'); 
-	//ajay dvfdbvf fdfvfdbgfb
+	  //ajay dvfdbvf fdfvfdbgfb
  }
 ?>
 <?php include('include/header.php'); ?>
